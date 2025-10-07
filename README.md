@@ -1,2 +1,9 @@
-# first-project
-A Python project that checks the strength of a password based on multiple parameters — like length, uppercase/lowercase use, numbers, symbols, and common-word detection. It’s simple, beginner-friendly, and shows you understand basic security principles.
+# 🔗 Blockchain Demo
+
+<h2 style="background:linear-gradient(90deg,#FF7F50,#FF1493);-webkit-background-clip:text;color:transparent;">About</h2>
+💻 Simple Python program to **hash data** simulating blockchain.  
+🎨 Features: Generate SHA-256 hash for any input.  
+
+**Tech Stack:** Python  
+
+🚀 Beginner-friendly introduction to Blockchain!
